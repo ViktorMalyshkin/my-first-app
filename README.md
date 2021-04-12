@@ -1,4 +1,7 @@
-# MyFirstApp
+# Udemy - MyFirstApp
+## Section 1: Getting Started
+
+## Section 2: The Basics
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
